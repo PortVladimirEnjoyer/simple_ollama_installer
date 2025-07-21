@@ -1,4 +1,11 @@
+
+
+
 # simple ollama installer gui 
+
+![screenshot]("screen.png")
+
+
 
 A simple, user-friendly Python GUI that checks if [Ollama](https://ollama.com) is installed on your system and whether a specific AI model (like `llama2`, `mistral`, etc.) is available locally.
 
