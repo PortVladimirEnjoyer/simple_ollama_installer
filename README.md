@@ -31,5 +31,5 @@ AI should stay available to the highest number of people; this is the only way t
 
 ## note/comment : 
 
-the ui right now is not really aesthetic ,please  feel free to add cucstomization as you wish :) 
+the ui right now is not really aesthetic ,please  feel free to add cucstomization if you wish :) 
 
