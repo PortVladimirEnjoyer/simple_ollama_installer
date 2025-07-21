@@ -22,3 +22,7 @@ this program only works on linux or macos
 
 AI should stay available to the highest number of people; this is the only way to keep it from being misused.
 
+## note/comment : 
+
+the ui right now is not really aesthetic ,please  feel free to add cucstomization as you wish :) 
+
