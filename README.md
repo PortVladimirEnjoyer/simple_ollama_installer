@@ -3,7 +3,7 @@
 
 # simple ollama installer gui 
 
-![screenshot]("screen.png")
+![screenshot](screen.png)
 
 
 
